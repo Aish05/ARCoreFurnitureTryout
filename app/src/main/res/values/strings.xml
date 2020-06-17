@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ArSeup</string>
+    <string name="models">Choose your furniture</string>
+    <string name="delete">Delete</string>
+</resources>
